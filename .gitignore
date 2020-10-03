@@ -45,5 +45,5 @@
 */**/cmake-build-debug/
 */**/*.lock
 */**/node_modules/
-
+.dSYM
 .DS_Store
